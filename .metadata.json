@@ -1,5 +1,9 @@
 [
   {
+    "package": "frictionless",
+    "oncran": true
+  },
+  {
     "package": "tableschema.r",
     "oncran": true
   }

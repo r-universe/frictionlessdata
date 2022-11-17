@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "frictionless"]
+	path = frictionless
+	url = https://github.com/frictionlessdata/frictionless-r
+	shallow = true
+	registered = true
 [submodule "tableschema.r"]
 	path = tableschema.r
 	url = https://github.com/frictionlessdata/tableschema-r
