@@ -1,10 +1,10 @@
 [
   {
-    "package": "tableschema.r",
+    "package": "frictionless",
     "oncran": true
   },
   {
-    "package": "frictionless",
+    "package": "tableschema.r",
     "oncran": true
   }
 ]
