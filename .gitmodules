@@ -5,6 +5,3 @@
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r
-[submodule "tableschema.r"]
-	path = tableschema.r
-	url = https://github.com/frictionlessdata/tableschema-r
